@@ -7,10 +7,10 @@
 ## 📸 ภาพตัวอย่างแอปพลิเคชัน
 
 <div align="center">
-  <img src="https://pic.in.th/image/c0bfd56c-0b2b-4280-8743-16b175f4a3b0.6Cqu03" width="200" alt="Home Screen"/>
-  <img src="https://pic.in.th/image/05272a50-7fd4-45b4-9785-2146db86be6f.6CqEfD" width="200" alt="Detail Screen 1"/>
-  <img src="https://pic.in.th/image/f1a1a363-a828-4164-89c3-54646a50397e.6CqcKN" width="200" alt="Detail Screen 2"/>
-  <img src="https://pic.in.th/image/1f2310f4-ccba-4623-9339-3ed0b1bb5a3d.6Cqwaa" width="200" alt="Location Map"/>
+  <img src="https://pic.in.th/image/c0bfd56c-0b2b-4280-8743-16b175f4a3b0.6Cp4ER" width="200" alt="Home Screen"/>
+  <img src="https://pic.in.th/image/05272a50-7fd4-45b4-9785-2146db86be6f.6Cpsic" width="200" alt="Detail Screen 1"/>
+  <img src="https://pic.in.th/image/f1a1a363-a828-4164-89c3-54646a50397e.6Cptd6" width="200" alt="Detail Screen 2"/>
+  <img src="https://pic.in.th/image/1f2310f4-ccba-4623-9339-3ed0b1bb5a3d.6CpFBE" width="200" alt="Location Map"/>
 </div>
 
 ---
